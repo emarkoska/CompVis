@@ -1,0 +1,1 @@
+print("mg.jpb".split("/")[-1].split(".")[-2])
